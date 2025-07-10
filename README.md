@@ -41,9 +41,9 @@ Make sure **Python 3.10+** is installed.
 pip install langchain langgraph imap-tools python-dotenv
 ```
 ### 3. Pull the Ollama Model 
-ollama pull qwen:8b
-# or use qwen:3b if running on lower-spec system
+```ollama pull qwen:8b
+```
 
 ### 4. Running the Agent
-python run_agent.py
-
+```python run_agent.py
+```
