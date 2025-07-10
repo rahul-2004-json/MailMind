@@ -1,4 +1,4 @@
-# 📬 MailSummarizer
+# 📬 MailMind
 
 A **local AI agent** that reads your unread emails and summarizes them in a few words — built using the **Qwen 3 8B** model from **Ollama**, and powered by **LangGraph**, **LangChain**, and **IMAPTools**.
 
